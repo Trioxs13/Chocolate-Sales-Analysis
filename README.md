@@ -8,6 +8,7 @@ This Power BI project provides a comprehensive analysis of chocolate product sal
 ---
 
 ## 📁 Dataset
+The Dataset is obtained from Kaggle.
 
 The dataset includes:
 - Sales Amount
