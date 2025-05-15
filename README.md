@@ -75,8 +75,6 @@ Focus on product trends, top products, and sales dynamics per country.
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. Interact with filters and visuals to explore insights.
 
-🔗 [Download Power BI File](./Chocolate_Sales_Insights_Dashboard_Power_BI_Project.pbix)
-
 ---
 
 ## 🙌 Acknowledgements
